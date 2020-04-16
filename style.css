@@ -37,8 +37,8 @@ fieldset {
   font-family: 'Abril Fatface', cursive;
   border: none;
   background: #222;
-  height: 180px;
-  width: 70%;
+  height: 170px;
+  width: 60%;
   margin: auto;
   line-height: 1.2;
   margin-bottom: 30px
@@ -48,28 +48,28 @@ fieldset {
 }
 .quote {
   color: white;
-  font-size: 45px;
+  font-size: 38px;
 }
 #first {
 position: relative;
-  bottom: 65px;
+  bottom: 60px;
   right: 15px
 }
 #second {
   position: relative;
-  bottom: 70px;
+  bottom: 65px;
   right: 15px
 }
 #third {
   position: relative;
-  bottom: 70px;
+  bottom: 65px;
   right: 15px
 }
 blockquote::before {
   content: '“';
   font-size: 100px;
   position: relative;
-  top: -65px;
+  top: -60px;
   right: 50px;
   margin-right:-55px;
 }
