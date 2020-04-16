@@ -48,7 +48,7 @@ fieldset {
 }
 .quote {
   color: white;
-  font-size: 36px;
+  font-size: 34px;
 }
 #first {
 position: relative;
@@ -63,13 +63,13 @@ position: relative;
 #third {
   position: relative;
   bottom: 65px;
-  right: 15px
+  right: ;
 }
 blockquote::before {
   content: '“';
   font-size: 100px;
   position: relative;
-  top: -60px;
+  top: -55px;
   right: 50px;
   margin-right:-55px;
 }
