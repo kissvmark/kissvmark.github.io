@@ -38,7 +38,7 @@ fieldset {
   border: none;
   background: #222;
   height: 170px;
-  width: 60%;
+  width: 65%;
   margin: auto;
   line-height: 1.2;
   margin-bottom: 30px
@@ -48,7 +48,7 @@ fieldset {
 }
 .quote {
   color: white;
-  font-size: 38px;
+  font-size: 36px;
 }
 #first {
 position: relative;
